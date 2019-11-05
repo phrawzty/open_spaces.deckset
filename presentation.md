@@ -14,7 +14,7 @@ slide-transition: fade(0.2)
 
 ---
 
-## Whatever happens
+## Whatever happens,
 
 # happens
 
@@ -26,7 +26,7 @@ slide-transition: fade(0.2)
 
 ---
 
-## When it’s over
+## When it’s over,
 
 # it’s over
 
